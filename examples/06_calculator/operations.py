@@ -24,5 +24,5 @@ def divide(a, b):
     return a / b
 
 
-def power(base, exponent)  # BUG: missing colon here -> SyntaxError
+def power(base, exponent):  # BUG: missing colon here -> SyntaxError
     return base ** exponent
